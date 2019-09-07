@@ -3,7 +3,6 @@
 h1 {
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 color: rgb(245, 119, 77);
-
 }
 
 fieldset { 
@@ -37,7 +36,9 @@ input {
     border-radius: 10px;
   }
   
-  .button:hover {background-color: rgb(231, 91, 44);}
+  .button:hover {
+    background-color: rgb(231, 91, 44);
+  }
   
   .button:active {
     background-color: #cccccc;
